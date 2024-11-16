@@ -92,7 +92,8 @@ def update_book_list():
                                 "language": language,
                                 "book": book,
                                 "title": title,
-                                "source": source
+                                "source": source, 
+                                "content_type": "extrabiblical" if "deuterocanonical" in base_dir else "bible",
                             })
                 
     with open("../book_list.json", 'w', encoding='utf-8') as f:
