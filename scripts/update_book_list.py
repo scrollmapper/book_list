@@ -120,10 +120,10 @@ def build_markdown_link_list():
 
     with open("../README.md", 'w', encoding='utf-8') as f:
         f.write(intro_content + "\n\n")
-        f.write("## Deuterocanonical Books\n")
-        f.write("\n- ".join(deuterocanonical_books) + "\n\n")
-        f.write("## Biblical Books\n")
-        f.write("\n- ".join(biblical_books) + "\n\n")
+        f.write(f"## Deuterocanonical Books ({len(deuterocanonical_books)})\n")
+        f.write("- "+("\n- ".join(deuterocanonical_books) + "\n\n"))
+        f.write(f"## Biblical Books ({len(biblical_books)})\n")
+        f.write("- "+("\n- ".join(biblical_books) + "\n\n"))
         f.write(other_content)
 
 

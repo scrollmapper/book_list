@@ -7,8 +7,8 @@ For detailed information, refer to `book_list.json`.
 This repository aims to maintain an up-to-date list of books currently available in Scrollmapper. It includes direct links to the `<book>.json` Scrollmapper files, which contain the complete texts. These files are meant to be aggregated / used by databases, websites, developer projects, or the main Scrollmapper Godot software.
 
 
-## Deuterocanonical Books
-[1-baruch: Baruch (en)](https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/1-baruch/1-baruch.json)
+## Deuterocanonical Books (61)
+- [1-baruch: Baruch (en)](https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/1-baruch/1-baruch.json)
 - [1-enoch: 1 Enoch (en)](https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/1-enoch/1-enoch.json)
 - [1-esdras: 1 Esdras (en)](https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/1-esdras/1-esdras.json)
 - [1-hermas: 1 Hermas (en)](https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/1-hermas/1-hermas.json)
@@ -70,8 +70,8 @@ This repository aims to maintain an up-to-date list of books currently available
 - [visions-of-amram: Visions of Amram (en)](https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/visions-of-amram/visions-of-amram.json)
 - [wisdom: The Wisdom of Solomon (en)](https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/wisdom/wisdom.json)
 
-## Biblical Books
-[BeaMRK: BeaMRK: The Gospel of Mark in Beaver (Danezaa) (bea)](https://raw.githubusercontent.com/scrollmapper/bible_databases/refs/heads/master/sources/bea/BeaMRK/BeaMRK.json)
+## Biblical Books (140)
+- [BeaMRK: BeaMRK: The Gospel of Mark in Beaver (Danezaa) (bea)](https://raw.githubusercontent.com/scrollmapper/bible_databases/refs/heads/master/sources/bea/BeaMRK/BeaMRK.json)
 - [CebPinadayag: CebPinadayag: Cebuano Pinadayag (ceb)](https://raw.githubusercontent.com/scrollmapper/bible_databases/refs/heads/master/sources/ceb/CebPinadayag/CebPinadayag.json)
 - [Che1860: Che1860: Cherokee New Testament (1860) with Sequoyah transliterated forms (chr)](https://raw.githubusercontent.com/scrollmapper/bible_databases/refs/heads/master/sources/chr/Che1860/Che1860.json)
 - [CopSahBible2: CopSahBible2: Sahidic Bible 2 (cop-sa)](https://raw.githubusercontent.com/scrollmapper/bible_databases/refs/heads/master/sources/cop-sa/CopSahBible2/CopSahBible2.json)
