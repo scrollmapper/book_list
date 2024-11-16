@@ -1,0 +1,1208 @@
+[
+    {
+        "language": "sources",
+        "book": "BeaMRK",
+        "title": "BeaMRK",
+        "source": "sources\\bea\\BeaMRK\\BeaMRK.json"
+    },
+    {
+        "language": "sources",
+        "book": "CebPinadayag",
+        "title": "CebPinadayag",
+        "source": "sources\\ceb\\CebPinadayag\\CebPinadayag.json"
+    },
+    {
+        "language": "sources",
+        "book": "Che1860",
+        "title": "Che1860",
+        "source": "sources\\chr\\Che1860\\Che1860.json"
+    },
+    {
+        "language": "sources",
+        "book": "CopSahBible2",
+        "title": "CopSahBible2",
+        "source": "sources\\cop-sa\\CopSahBible2\\CopSahBible2.json"
+    },
+    {
+        "language": "sources",
+        "book": "CzeBKR",
+        "title": "CzeBKR",
+        "source": "sources\\cs\\CzeBKR\\CzeBKR.json"
+    },
+    {
+        "language": "sources",
+        "book": "CzeCSP",
+        "title": "CzeCSP",
+        "source": "sources\\cs\\CzeCSP\\CzeCSP.json"
+    },
+    {
+        "language": "sources",
+        "book": "CSlElizabeth",
+        "title": "CSlElizabeth",
+        "source": "sources\\cu\\CSlElizabeth\\CSlElizabeth.json"
+    },
+    {
+        "language": "sources",
+        "book": "DaOT1871NT1907",
+        "title": "DaOT1871NT1907",
+        "source": "sources\\da\\DaOT1871NT1907\\DaOT1871NT1907.json"
+    },
+    {
+        "language": "sources",
+        "book": "GerAlbrecht",
+        "title": "GerAlbrecht",
+        "source": "sources\\de\\GerAlbrecht\\GerAlbrecht.json"
+    },
+    {
+        "language": "sources",
+        "book": "GerBoLut",
+        "title": "GerBoLut",
+        "source": "sources\\de\\GerBoLut\\GerBoLut.json"
+    },
+    {
+        "language": "sources",
+        "book": "GerElb1871",
+        "title": "GerElb1871",
+        "source": "sources\\de\\GerElb1871\\GerElb1871.json"
+    },
+    {
+        "language": "sources",
+        "book": "GerElb1905",
+        "title": "GerElb1905",
+        "source": "sources\\de\\GerElb1905\\GerElb1905.json"
+    },
+    {
+        "language": "sources",
+        "book": "GerGruenewald",
+        "title": "GerGruenewald",
+        "source": "sources\\de\\GerGruenewald\\GerGruenewald.json"
+    },
+    {
+        "language": "sources",
+        "book": "GerLeoNA28",
+        "title": "GerLeoNA28",
+        "source": "sources\\de\\GerLeoNA28\\GerLeoNA28.json"
+    },
+    {
+        "language": "sources",
+        "book": "GerMenge",
+        "title": "GerMenge",
+        "source": "sources\\de\\GerMenge\\GerMenge.json"
+    },
+    {
+        "language": "sources",
+        "book": "GerOffBiSt",
+        "title": "GerOffBiSt",
+        "source": "sources\\de\\GerOffBiSt\\GerOffBiSt.json"
+    },
+    {
+        "language": "sources",
+        "book": "GerSch",
+        "title": "GerSch",
+        "source": "sources\\de\\GerSch\\GerSch.json"
+    },
+    {
+        "language": "sources",
+        "book": "GerTafel",
+        "title": "GerTafel",
+        "source": "sources\\de\\GerTafel\\GerTafel.json"
+    },
+    {
+        "language": "sources",
+        "book": "GerTextbibel",
+        "title": "GerTextbibel",
+        "source": "sources\\de\\GerTextbibel\\GerTextbibel.json"
+    },
+    {
+        "language": "sources",
+        "book": "GerZurcher",
+        "title": "GerZurcher",
+        "source": "sources\\de\\GerZurcher\\GerZurcher.json"
+    },
+    {
+        "language": "sources",
+        "book": "GreVamvas",
+        "title": "GreVamvas",
+        "source": "sources\\el\\GreVamvas\\GreVamvas.json"
+    },
+    {
+        "language": "sources",
+        "book": "ACV",
+        "title": "ACV",
+        "source": "sources\\en\\ACV\\ACV.json"
+    },
+    {
+        "language": "sources",
+        "book": "AKJV",
+        "title": "AKJV",
+        "source": "sources\\en\\AKJV\\AKJV.json"
+    },
+    {
+        "language": "sources",
+        "book": "Anderson",
+        "title": "Anderson",
+        "source": "sources\\en\\Anderson\\Anderson.json"
+    },
+    {
+        "language": "sources",
+        "book": "ASV",
+        "title": "ASV",
+        "source": "sources\\en\\ASV\\ASV.json"
+    },
+    {
+        "language": "sources",
+        "book": "BBE",
+        "title": "BBE",
+        "source": "sources\\en\\BBE\\BBE.json"
+    },
+    {
+        "language": "sources",
+        "book": "BSB",
+        "title": "BSB",
+        "source": "sources\\en\\BSB\\BSB.json"
+    },
+    {
+        "language": "sources",
+        "book": "CPDV",
+        "title": "CPDV",
+        "source": "sources\\en\\CPDV\\CPDV.json"
+    },
+    {
+        "language": "sources",
+        "book": "Darby",
+        "title": "Darby",
+        "source": "sources\\en\\Darby\\Darby.json"
+    },
+    {
+        "language": "sources",
+        "book": "DRC",
+        "title": "DRC",
+        "source": "sources\\en\\DRC\\DRC.json"
+    },
+    {
+        "language": "sources",
+        "book": "Geneva1599",
+        "title": "Geneva1599",
+        "source": "sources\\en\\Geneva1599\\Geneva1599.json"
+    },
+    {
+        "language": "sources",
+        "book": "Haweis",
+        "title": "Haweis",
+        "source": "sources\\en\\Haweis\\Haweis.json"
+    },
+    {
+        "language": "sources",
+        "book": "JPS",
+        "title": "JPS",
+        "source": "sources\\en\\JPS\\JPS.json"
+    },
+    {
+        "language": "sources",
+        "book": "Jubilee2000",
+        "title": "Jubilee2000",
+        "source": "sources\\en\\Jubilee2000\\Jubilee2000.json"
+    },
+    {
+        "language": "sources",
+        "book": "KJV",
+        "title": "KJV",
+        "source": "sources\\en\\KJV\\KJV.json"
+    },
+    {
+        "language": "sources",
+        "book": "KJVA",
+        "title": "KJVA",
+        "source": "sources\\en\\KJVA\\KJVA.json"
+    },
+    {
+        "language": "sources",
+        "book": "KJVPCE",
+        "title": "KJVPCE",
+        "source": "sources\\en\\KJVPCE\\KJVPCE.json"
+    },
+    {
+        "language": "sources",
+        "book": "LEB",
+        "title": "LEB",
+        "source": "sources\\en\\LEB\\LEB.json"
+    },
+    {
+        "language": "sources",
+        "book": "LITV",
+        "title": "LITV",
+        "source": "sources\\en\\LITV\\LITV.json"
+    },
+    {
+        "language": "sources",
+        "book": "MKJV",
+        "title": "MKJV",
+        "source": "sources\\en\\MKJV\\MKJV.json"
+    },
+    {
+        "language": "sources",
+        "book": "NHEB",
+        "title": "NHEB",
+        "source": "sources\\en\\NHEB\\NHEB.json"
+    },
+    {
+        "language": "sources",
+        "book": "NHEBJE",
+        "title": "NHEBJE",
+        "source": "sources\\en\\NHEBJE\\NHEBJE.json"
+    },
+    {
+        "language": "sources",
+        "book": "NHEBME",
+        "title": "NHEBME",
+        "source": "sources\\en\\NHEBME\\NHEBME.json"
+    },
+    {
+        "language": "sources",
+        "book": "Noyes",
+        "title": "Noyes",
+        "source": "sources\\en\\Noyes\\Noyes.json"
+    },
+    {
+        "language": "sources",
+        "book": "OEB",
+        "title": "OEB",
+        "source": "sources\\en\\OEB\\OEB.json"
+    },
+    {
+        "language": "sources",
+        "book": "OEBcth",
+        "title": "OEBcth",
+        "source": "sources\\en\\OEBcth\\OEBcth.json"
+    },
+    {
+        "language": "sources",
+        "book": "RLT",
+        "title": "RLT",
+        "source": "sources\\en\\RLT\\RLT.json"
+    },
+    {
+        "language": "sources",
+        "book": "RNKJV",
+        "title": "RNKJV",
+        "source": "sources\\en\\RNKJV\\RNKJV.json"
+    },
+    {
+        "language": "sources",
+        "book": "Rotherham",
+        "title": "Rotherham",
+        "source": "sources\\en\\Rotherham\\Rotherham.json"
+    },
+    {
+        "language": "sources",
+        "book": "RWebster",
+        "title": "RWebster",
+        "source": "sources\\en\\RWebster\\RWebster.json"
+    },
+    {
+        "language": "sources",
+        "book": "Twenty",
+        "title": "Twenty",
+        "source": "sources\\en\\Twenty\\Twenty.json"
+    },
+    {
+        "language": "sources",
+        "book": "Tyndale",
+        "title": "Tyndale",
+        "source": "sources\\en\\Tyndale\\Tyndale.json"
+    },
+    {
+        "language": "sources",
+        "book": "UKJV",
+        "title": "UKJV",
+        "source": "sources\\en\\UKJV\\UKJV.json"
+    },
+    {
+        "language": "sources",
+        "book": "Webster",
+        "title": "Webster",
+        "source": "sources\\en\\Webster\\Webster.json"
+    },
+    {
+        "language": "sources",
+        "book": "YLT",
+        "title": "YLT",
+        "source": "sources\\en\\YLT\\YLT.json"
+    },
+    {
+        "language": "sources",
+        "book": "Wycliffe",
+        "title": "Wycliffe",
+        "source": "sources\\enm\\Wycliffe\\Wycliffe.json"
+    },
+    {
+        "language": "sources",
+        "book": "Esperanto",
+        "title": "Esperanto",
+        "source": "sources\\eo\\Esperanto\\Esperanto.json"
+    },
+    {
+        "language": "sources",
+        "book": "SpaPlatense",
+        "title": "SpaPlatense",
+        "source": "sources\\es\\SpaPlatense\\SpaPlatense.json"
+    },
+    {
+        "language": "sources",
+        "book": "SpaRV",
+        "title": "SpaRV",
+        "source": "sources\\es\\SpaRV\\SpaRV.json"
+    },
+    {
+        "language": "sources",
+        "book": "SpaRV1865",
+        "title": "SpaRV1865",
+        "source": "sources\\es\\SpaRV1865\\SpaRV1865.json"
+    },
+    {
+        "language": "sources",
+        "book": "SpaRVG",
+        "title": "SpaRVG",
+        "source": "sources\\es\\SpaRVG\\SpaRVG.json"
+    },
+    {
+        "language": "sources",
+        "book": "Est",
+        "title": "Est",
+        "source": "sources\\et\\Est\\Est.json"
+    },
+    {
+        "language": "sources",
+        "book": "FinBiblia",
+        "title": "FinBiblia",
+        "source": "sources\\fi\\FinBiblia\\FinBiblia.json"
+    },
+    {
+        "language": "sources",
+        "book": "FinPR",
+        "title": "FinPR",
+        "source": "sources\\fi\\FinPR\\FinPR.json"
+    },
+    {
+        "language": "sources",
+        "book": "FinSTLK2017",
+        "title": "FinSTLK2017",
+        "source": "sources\\fi\\FinSTLK2017\\FinSTLK2017.json"
+    },
+    {
+        "language": "sources",
+        "book": "FreBBB",
+        "title": "FreBBB",
+        "source": "sources\\fr\\FreBBB\\FreBBB.json"
+    },
+    {
+        "language": "sources",
+        "book": "FreBDM1744",
+        "title": "FreBDM1744",
+        "source": "sources\\fr\\FreBDM1744\\FreBDM1744.json"
+    },
+    {
+        "language": "sources",
+        "book": "FreCrampon",
+        "title": "FreCrampon",
+        "source": "sources\\fr\\FreCrampon\\FreCrampon.json"
+    },
+    {
+        "language": "sources",
+        "book": "FreGeneve1669",
+        "title": "FreGeneve1669",
+        "source": "sources\\fr\\FreGeneve1669\\FreGeneve1669.json"
+    },
+    {
+        "language": "sources",
+        "book": "FreJND",
+        "title": "FreJND",
+        "source": "sources\\fr\\FreJND\\FreJND.json"
+    },
+    {
+        "language": "sources",
+        "book": "FreLXX",
+        "title": "FreLXX",
+        "source": "sources\\fr\\FreLXX\\FreLXX.json"
+    },
+    {
+        "language": "sources",
+        "book": "FreLXXGiguet",
+        "title": "FreLXXGiguet",
+        "source": "sources\\fr\\FreLXXGiguet\\FreLXXGiguet.json"
+    },
+    {
+        "language": "sources",
+        "book": "FreOltramare1874",
+        "title": "FreOltramare1874",
+        "source": "sources\\fr\\FreOltramare1874\\FreOltramare1874.json"
+    },
+    {
+        "language": "sources",
+        "book": "FrePGR",
+        "title": "FrePGR",
+        "source": "sources\\fr\\FrePGR\\FrePGR.json"
+    },
+    {
+        "language": "sources",
+        "book": "FreStapfer1889",
+        "title": "FreStapfer1889",
+        "source": "sources\\fr\\FreStapfer1889\\FreStapfer1889.json"
+    },
+    {
+        "language": "sources",
+        "book": "FreSynodale1921",
+        "title": "FreSynodale1921",
+        "source": "sources\\fr\\FreSynodale1921\\FreSynodale1921.json"
+    },
+    {
+        "language": "sources",
+        "book": "Wulfila",
+        "title": "Wulfila",
+        "source": "sources\\got\\Wulfila\\Wulfila.json"
+    },
+    {
+        "language": "sources",
+        "book": "Byz",
+        "title": "Byz",
+        "source": "sources\\grc\\Byz\\Byz.json"
+    },
+    {
+        "language": "sources",
+        "book": "StatResGNT",
+        "title": "StatResGNT",
+        "source": "sources\\grc\\StatResGNT\\StatResGNT.json"
+    },
+    {
+        "language": "sources",
+        "book": "TR",
+        "title": "TR",
+        "source": "sources\\grc\\TR\\TR.json"
+    },
+    {
+        "language": "sources",
+        "book": "ManxGaelic",
+        "title": "ManxGaelic",
+        "source": "sources\\gv\\ManxGaelic\\ManxGaelic.json"
+    },
+    {
+        "language": "sources",
+        "book": "MapM",
+        "title": "MapM",
+        "source": "sources\\hbo\\MapM\\MapM.json"
+    },
+    {
+        "language": "sources",
+        "book": "SP",
+        "title": "SP",
+        "source": "sources\\hbo\\SP\\SP.json"
+    },
+    {
+        "language": "sources",
+        "book": "WLC",
+        "title": "WLC",
+        "source": "sources\\hbo\\WLC\\WLC.json"
+    },
+    {
+        "language": "sources",
+        "book": "HebModern",
+        "title": "HebModern",
+        "source": "sources\\he\\HebModern\\HebModern.json"
+    },
+    {
+        "language": "sources",
+        "book": "CroSaric",
+        "title": "CroSaric",
+        "source": "sources\\hr\\CroSaric\\CroSaric.json"
+    },
+    {
+        "language": "sources",
+        "book": "Haitian",
+        "title": "Haitian",
+        "source": "sources\\ht\\Haitian\\Haitian.json"
+    },
+    {
+        "language": "sources",
+        "book": "HunKar",
+        "title": "HunKar",
+        "source": "sources\\hu\\HunKar\\HunKar.json"
+    },
+    {
+        "language": "sources",
+        "book": "ArmEastern",
+        "title": "ArmEastern",
+        "source": "sources\\hy\\ArmEastern\\ArmEastern.json"
+    },
+    {
+        "language": "sources",
+        "book": "JapBungo",
+        "title": "JapBungo",
+        "source": "sources\\ja\\JapBungo\\JapBungo.json"
+    },
+    {
+        "language": "sources",
+        "book": "JapDenmo",
+        "title": "JapDenmo",
+        "source": "sources\\ja\\JapDenmo\\JapDenmo.json"
+    },
+    {
+        "language": "sources",
+        "book": "JapKougo",
+        "title": "JapKougo",
+        "source": "sources\\ja\\JapKougo\\JapKougo.json"
+    },
+    {
+        "language": "sources",
+        "book": "KorHKJV",
+        "title": "KorHKJV",
+        "source": "sources\\ko\\KorHKJV\\KorHKJV.json"
+    },
+    {
+        "language": "sources",
+        "book": "KorRV",
+        "title": "KorRV",
+        "source": "sources\\ko\\KorRV\\KorRV.json"
+    },
+    {
+        "language": "sources",
+        "book": "Vulgate",
+        "title": "Vulgate",
+        "source": "sources\\la\\Vulgate\\Vulgate.json"
+    },
+    {
+        "language": "sources",
+        "book": "VulgClementine",
+        "title": "VulgClementine",
+        "source": "sources\\la\\VulgClementine\\VulgClementine.json"
+    },
+    {
+        "language": "sources",
+        "book": "VulgConte",
+        "title": "VulgConte",
+        "source": "sources\\la\\VulgConte\\VulgConte.json"
+    },
+    {
+        "language": "sources",
+        "book": "VulgHetzenauer",
+        "title": "VulgHetzenauer",
+        "source": "sources\\la\\VulgHetzenauer\\VulgHetzenauer.json"
+    },
+    {
+        "language": "sources",
+        "book": "VulgSistine",
+        "title": "VulgSistine",
+        "source": "sources\\la\\VulgSistine\\VulgSistine.json"
+    },
+    {
+        "language": "sources",
+        "book": "LvGluck8",
+        "title": "LvGluck8",
+        "source": "sources\\lv\\LvGluck8\\LvGluck8.json"
+    },
+    {
+        "language": "sources",
+        "book": "ChiUnL",
+        "title": "ChiUnL",
+        "source": "sources\\lzh\\ChiUnL\\ChiUnL.json"
+    },
+    {
+        "language": "sources",
+        "book": "Mg1865",
+        "title": "Mg1865",
+        "source": "sources\\mg\\Mg1865\\Mg1865.json"
+    },
+    {
+        "language": "sources",
+        "book": "Maori",
+        "title": "Maori",
+        "source": "sources\\mi\\Maori\\Maori.json"
+    },
+    {
+        "language": "sources",
+        "book": "Mal1910",
+        "title": "Mal1910",
+        "source": "sources\\mlf\\Mal1910\\Mal1910.json"
+    },
+    {
+        "language": "sources",
+        "book": "BurJudson",
+        "title": "BurJudson",
+        "source": "sources\\my\\BurJudson\\BurJudson.json"
+    },
+    {
+        "language": "sources",
+        "book": "Norsk",
+        "title": "Norsk",
+        "source": "sources\\nb\\Norsk\\Norsk.json"
+    },
+    {
+        "language": "sources",
+        "book": "DutSVV",
+        "title": "DutSVV",
+        "source": "sources\\nl\\DutSVV\\DutSVV.json"
+    },
+    {
+        "language": "sources",
+        "book": "DutSVVA",
+        "title": "DutSVVA",
+        "source": "sources\\nl\\DutSVVA\\DutSVVA.json"
+    },
+    {
+        "language": "sources",
+        "book": "NlCanisius1939",
+        "title": "NlCanisius1939",
+        "source": "sources\\nl\\NlCanisius1939\\NlCanisius1939.json"
+    },
+    {
+        "language": "sources",
+        "book": "NorSMB",
+        "title": "NorSMB",
+        "source": "sources\\nn\\NorSMB\\NorSMB.json"
+    },
+    {
+        "language": "sources",
+        "book": "PolGdanska",
+        "title": "PolGdanska",
+        "source": "sources\\pl\\PolGdanska\\PolGdanska.json"
+    },
+    {
+        "language": "sources",
+        "book": "PolUGdanska",
+        "title": "PolUGdanska",
+        "source": "sources\\pl\\PolUGdanska\\PolUGdanska.json"
+    },
+    {
+        "language": "sources",
+        "book": "PohnOld",
+        "title": "PohnOld",
+        "source": "sources\\pon\\PohnOld\\PohnOld.json"
+    },
+    {
+        "language": "sources",
+        "book": "PorBLivre",
+        "title": "PorBLivre",
+        "source": "sources\\pt\\PorBLivre\\PorBLivre.json"
+    },
+    {
+        "language": "sources",
+        "book": "PorBLivreTR",
+        "title": "PorBLivreTR",
+        "source": "sources\\pt\\PorBLivreTR\\PorBLivreTR.json"
+    },
+    {
+        "language": "sources",
+        "book": "PorNVA",
+        "title": "PorNVA",
+        "source": "sources\\pt\\PorNVA\\PorNVA.json"
+    },
+    {
+        "language": "sources",
+        "book": "RusMakarij",
+        "title": "RusMakarij",
+        "source": "sources\\ru\\RusMakarij\\RusMakarij.json"
+    },
+    {
+        "language": "sources",
+        "book": "RusSynodal",
+        "title": "RusSynodal",
+        "source": "sources\\ru\\RusSynodal\\RusSynodal.json"
+    },
+    {
+        "language": "sources",
+        "book": "SloChraska",
+        "title": "SloChraska",
+        "source": "sources\\sl\\SloChraska\\SloChraska.json"
+    },
+    {
+        "language": "sources",
+        "book": "SloKJV",
+        "title": "SloKJV",
+        "source": "sources\\sl\\SloKJV\\SloKJV.json"
+    },
+    {
+        "language": "sources",
+        "book": "SloOjacano",
+        "title": "SloOjacano",
+        "source": "sources\\sl\\SloOjacano\\SloOjacano.json"
+    },
+    {
+        "language": "sources",
+        "book": "SloStritar",
+        "title": "SloStritar",
+        "source": "sources\\sl\\SloStritar\\SloStritar.json"
+    },
+    {
+        "language": "sources",
+        "book": "sml_BL_2008",
+        "title": "sml_BL_2008",
+        "source": "sources\\sml\\sml_BL_2008\\sml_BL_2008.json"
+    },
+    {
+        "language": "sources",
+        "book": "Alb",
+        "title": "Alb",
+        "source": "sources\\sq\\Alb\\Alb.json"
+    },
+    {
+        "language": "sources",
+        "book": "SrKDEkavski",
+        "title": "SrKDEkavski",
+        "source": "sources\\sr\\SrKDEkavski\\SrKDEkavski.json"
+    },
+    {
+        "language": "sources",
+        "book": "SrKDIjekav",
+        "title": "SrKDIjekav",
+        "source": "sources\\sr\\SrKDIjekav\\SrKDIjekav.json"
+    },
+    {
+        "language": "sources",
+        "book": "Swe1917",
+        "title": "Swe1917",
+        "source": "sources\\sv\\Swe1917\\Swe1917.json"
+    },
+    {
+        "language": "sources",
+        "book": "SweKarlXII",
+        "title": "SweKarlXII",
+        "source": "sources\\sv\\SweKarlXII\\SweKarlXII.json"
+    },
+    {
+        "language": "sources",
+        "book": "SweKarlXII1873",
+        "title": "SweKarlXII1873",
+        "source": "sources\\sv\\SweKarlXII1873\\SweKarlXII1873.json"
+    },
+    {
+        "language": "sources",
+        "book": "Peshitta",
+        "title": "Peshitta",
+        "source": "sources\\syr\\Peshitta\\Peshitta.json"
+    },
+    {
+        "language": "sources",
+        "book": "ThaiKJV",
+        "title": "ThaiKJV",
+        "source": "sources\\th\\ThaiKJV\\ThaiKJV.json"
+    },
+    {
+        "language": "sources",
+        "book": "TagAngBiblia",
+        "title": "TagAngBiblia",
+        "source": "sources\\tl\\TagAngBiblia\\TagAngBiblia.json"
+    },
+    {
+        "language": "sources",
+        "book": "KLV",
+        "title": "KLV",
+        "source": "sources\\tlh\\KLV\\KLV.json"
+    },
+    {
+        "language": "sources",
+        "book": "TpiKJPB",
+        "title": "TpiKJPB",
+        "source": "sources\\tpi\\TpiKJPB\\TpiKJPB.json"
+    },
+    {
+        "language": "sources",
+        "book": "Tausug",
+        "title": "Tausug",
+        "source": "sources\\tsg\\Tausug\\Tausug.json"
+    },
+    {
+        "language": "sources",
+        "book": "UkrOgienko",
+        "title": "UkrOgienko",
+        "source": "sources\\uk\\UkrOgienko\\UkrOgienko.json"
+    },
+    {
+        "language": "sources",
+        "book": "Viet",
+        "title": "Viet",
+        "source": "sources\\vi\\Viet\\Viet.json"
+    },
+    {
+        "language": "sources",
+        "book": "vlsJoNT",
+        "title": "vlsJoNT",
+        "source": "sources\\vls\\vlsJoNT\\vlsJoNT.json"
+    },
+    {
+        "language": "sources",
+        "book": "ChiSB",
+        "title": "ChiSB",
+        "source": "sources\\zh-hant\\ChiSB\\ChiSB.json"
+    },
+    {
+        "language": "sources",
+        "book": "ChiUn",
+        "title": "ChiUn",
+        "source": "sources\\zh-hant\\ChiUn\\ChiUn.json"
+    },
+    {
+        "language": "sources",
+        "book": "1-baruch",
+        "title": "1-baruch",
+        "source": "sources\\en\\1-baruch\\1-baruch.json"
+    },
+    {
+        "language": "sources",
+        "book": "1-enoch",
+        "title": "1-enoch",
+        "source": "sources\\en\\1-enoch\\1-enoch.json"
+    },
+    {
+        "language": "sources",
+        "book": "1-esdras",
+        "title": "1-esdras",
+        "source": "sources\\en\\1-esdras\\1-esdras.json"
+    },
+    {
+        "language": "sources",
+        "book": "1-hermas",
+        "title": "1-hermas",
+        "source": "sources\\en\\1-hermas\\1-hermas.json"
+    },
+    {
+        "language": "sources",
+        "book": "1-mac",
+        "title": "1-mac",
+        "source": "sources\\en\\1-mac\\1-mac.json"
+    },
+    {
+        "language": "sources",
+        "book": "2-baruch",
+        "title": "2-baruch",
+        "source": "sources\\en\\2-baruch\\2-baruch.json"
+    },
+    {
+        "language": "sources",
+        "book": "2-enoch",
+        "title": "2-enoch",
+        "source": "sources\\en\\2-enoch\\2-enoch.json"
+    },
+    {
+        "language": "sources",
+        "book": "2-esdras",
+        "title": "2-esdras",
+        "source": "sources\\en\\2-esdras\\2-esdras.json"
+    },
+    {
+        "language": "sources",
+        "book": "2-hermas",
+        "title": "2-hermas",
+        "source": "sources\\en\\2-hermas\\2-hermas.json"
+    },
+    {
+        "language": "sources",
+        "book": "2-mac",
+        "title": "2-mac",
+        "source": "sources\\en\\2-mac\\2-mac.json"
+    },
+    {
+        "language": "sources",
+        "book": "3-baruch",
+        "title": "3-baruch",
+        "source": "sources\\en\\3-baruch\\3-baruch.json"
+    },
+    {
+        "language": "sources",
+        "book": "3-enoch",
+        "title": "3-enoch",
+        "source": "sources\\en\\3-enoch\\3-enoch.json"
+    },
+    {
+        "language": "sources",
+        "book": "3-hermas",
+        "title": "3-hermas",
+        "source": "sources\\en\\3-hermas\\3-hermas.json"
+    },
+    {
+        "language": "sources",
+        "book": "4-baruch",
+        "title": "4-baruch",
+        "source": "sources\\en\\4-baruch\\4-baruch.json"
+    },
+    {
+        "language": "sources",
+        "book": "apocalypse-of-elijah",
+        "title": "apocalypse-of-elijah",
+        "source": "sources\\en\\apocalypse-of-elijah\\apocalypse-of-elijah.json"
+    },
+    {
+        "language": "sources",
+        "book": "apocalypse-of-peter",
+        "title": "apocalypse-of-peter",
+        "source": "sources\\en\\apocalypse-of-peter\\apocalypse-of-peter.json"
+    },
+    {
+        "language": "sources",
+        "book": "apocryphon-of-joshua",
+        "title": "apocryphon-of-joshua",
+        "source": "sources\\en\\apocryphon-of-joshua\\apocryphon-of-joshua.json"
+    },
+    {
+        "language": "sources",
+        "book": "ascension-of-isaiah",
+        "title": "ascension-of-isaiah",
+        "source": "sources\\en\\ascension-of-isaiah\\ascension-of-isaiah.json"
+    },
+    {
+        "language": "sources",
+        "book": "azar",
+        "title": "azar",
+        "source": "sources\\en\\azar\\azar.json"
+    },
+    {
+        "language": "sources",
+        "book": "balaam-inscription",
+        "title": "balaam-inscription",
+        "source": "sources\\en\\balaam-inscription\\balaam-inscription.json"
+    },
+    {
+        "language": "sources",
+        "book": "bel",
+        "title": "bel",
+        "source": "sources\\en\\bel\\bel.json"
+    },
+    {
+        "language": "sources",
+        "book": "book-of-giants",
+        "title": "book-of-giants",
+        "source": "sources\\en\\book-of-giants\\book-of-giants.json"
+    },
+    {
+        "language": "sources",
+        "book": "book-of-the-wisdom-of-ahikar",
+        "title": "book-of-the-wisdom-of-ahikar",
+        "source": "sources\\en\\book-of-the-wisdom-of-ahikar\\book-of-the-wisdom-of-ahikar.json"
+    },
+    {
+        "language": "sources",
+        "book": "five-psalms-of-david",
+        "title": "five-psalms-of-david",
+        "source": "sources\\en\\five-psalms-of-david\\five-psalms-of-david.json"
+    },
+    {
+        "language": "sources",
+        "book": "gad-the-seer",
+        "title": "gad-the-seer",
+        "source": "sources\\en\\gad-the-seer\\gad-the-seer.json"
+    },
+    {
+        "language": "sources",
+        "book": "genesis-apocryphon",
+        "title": "genesis-apocryphon",
+        "source": "sources\\en\\genesis-apocryphon\\genesis-apocryphon.json"
+    },
+    {
+        "language": "sources",
+        "book": "gkesther",
+        "title": "gkesther",
+        "source": "sources\\en\\gkesther\\gkesther.json"
+    },
+    {
+        "language": "sources",
+        "book": "jannes-and-jambres",
+        "title": "jannes-and-jambres",
+        "source": "sources\\en\\jannes-and-jambres\\jannes-and-jambres.json"
+    },
+    {
+        "language": "sources",
+        "book": "jasher",
+        "title": "jasher",
+        "source": "sources\\en\\jasher\\jasher.json"
+    },
+    {
+        "language": "sources",
+        "book": "joseph-and-asenath",
+        "title": "joseph-and-asenath",
+        "source": "sources\\en\\joseph-and-asenath\\joseph-and-asenath.json"
+    },
+    {
+        "language": "sources",
+        "book": "jubilees",
+        "title": "jubilees",
+        "source": "sources\\en\\jubilees\\jubilees.json"
+    },
+    {
+        "language": "sources",
+        "book": "judith",
+        "title": "judith",
+        "source": "sources\\en\\judith\\judith.json"
+    },
+    {
+        "language": "sources",
+        "book": "man",
+        "title": "man",
+        "source": "sources\\en\\man\\man.json"
+    },
+    {
+        "language": "sources",
+        "book": "sedrach",
+        "title": "sedrach",
+        "source": "sources\\en\\sedrach\\sedrach.json"
+    },
+    {
+        "language": "sources",
+        "book": "sirach",
+        "title": "sirach",
+        "source": "sources\\en\\sirach\\sirach.json"
+    },
+    {
+        "language": "sources",
+        "book": "songs-of-the-sabbath-sacrifice",
+        "title": "songs-of-the-sabbath-sacrifice",
+        "source": "sources\\en\\songs-of-the-sabbath-sacrifice\\songs-of-the-sabbath-sacrifice.json"
+    },
+    {
+        "language": "sources",
+        "book": "susanna",
+        "title": "susanna",
+        "source": "sources\\en\\susanna\\susanna.json"
+    },
+    {
+        "language": "sources",
+        "book": "testament-of-abraham",
+        "title": "testament-of-abraham",
+        "source": "sources\\en\\testament-of-abraham\\testament-of-abraham.json"
+    },
+    {
+        "language": "sources",
+        "book": "testament-of-isaac",
+        "title": "testament-of-isaac",
+        "source": "sources\\en\\testament-of-isaac\\testament-of-isaac.json"
+    },
+    {
+        "language": "sources",
+        "book": "testament-of-job",
+        "title": "testament-of-job",
+        "source": "sources\\en\\testament-of-job\\testament-of-job.json"
+    },
+    {
+        "language": "sources",
+        "book": "testament-of-kohath",
+        "title": "testament-of-kohath",
+        "source": "sources\\en\\testament-of-kohath\\testament-of-kohath.json"
+    },
+    {
+        "language": "sources",
+        "book": "testament-of-solomon",
+        "title": "testament-of-solomon",
+        "source": "sources\\en\\testament-of-solomon\\testament-of-solomon.json"
+    },
+    {
+        "language": "sources",
+        "book": "the-assumption-of-moses",
+        "title": "the-assumption-of-moses",
+        "source": "sources\\en\\the-assumption-of-moses\\the-assumption-of-moses.json"
+    },
+    {
+        "language": "sources",
+        "book": "the-book-of-nathan-the-prophet",
+        "title": "the-book-of-nathan-the-prophet",
+        "source": "sources\\en\\the-book-of-nathan-the-prophet\\the-book-of-nathan-the-prophet.json"
+    },
+    {
+        "language": "sources",
+        "book": "the-odes-of-solomon",
+        "title": "the-odes-of-solomon",
+        "source": "sources\\en\\the-odes-of-solomon\\the-odes-of-solomon.json"
+    },
+    {
+        "language": "sources",
+        "book": "the-testament-of-asher",
+        "title": "the-testament-of-asher",
+        "source": "sources\\en\\the-testament-of-asher\\the-testament-of-asher.json"
+    },
+    {
+        "language": "sources",
+        "book": "the-testament-of-benjamin",
+        "title": "the-testament-of-benjamin",
+        "source": "sources\\en\\the-testament-of-benjamin\\the-testament-of-benjamin.json"
+    },
+    {
+        "language": "sources",
+        "book": "the-testament-of-dan",
+        "title": "the-testament-of-dan",
+        "source": "sources\\en\\the-testament-of-dan\\the-testament-of-dan.json"
+    },
+    {
+        "language": "sources",
+        "book": "the-testament-of-gad",
+        "title": "the-testament-of-gad",
+        "source": "sources\\en\\the-testament-of-gad\\the-testament-of-gad.json"
+    },
+    {
+        "language": "sources",
+        "book": "the-testament-of-issachar",
+        "title": "the-testament-of-issachar",
+        "source": "sources\\en\\the-testament-of-issachar\\the-testament-of-issachar.json"
+    },
+    {
+        "language": "sources",
+        "book": "the-testament-of-jacob",
+        "title": "the-testament-of-jacob",
+        "source": "sources\\en\\the-testament-of-jacob\\the-testament-of-jacob.json"
+    },
+    {
+        "language": "sources",
+        "book": "the-testament-of-joseph",
+        "title": "the-testament-of-joseph",
+        "source": "sources\\en\\the-testament-of-joseph\\the-testament-of-joseph.json"
+    },
+    {
+        "language": "sources",
+        "book": "the-testament-of-judah",
+        "title": "the-testament-of-judah",
+        "source": "sources\\en\\the-testament-of-judah\\the-testament-of-judah.json"
+    },
+    {
+        "language": "sources",
+        "book": "the-testament-of-levi",
+        "title": "the-testament-of-levi",
+        "source": "sources\\en\\the-testament-of-levi\\the-testament-of-levi.json"
+    },
+    {
+        "language": "sources",
+        "book": "the-testament-of-naphtali",
+        "title": "the-testament-of-naphtali",
+        "source": "sources\\en\\the-testament-of-naphtali\\the-testament-of-naphtali.json"
+    },
+    {
+        "language": "sources",
+        "book": "the-testament-of-reuben",
+        "title": "the-testament-of-reuben",
+        "source": "sources\\en\\the-testament-of-reuben\\the-testament-of-reuben.json"
+    },
+    {
+        "language": "sources",
+        "book": "the-testament-of-simeon",
+        "title": "the-testament-of-simeon",
+        "source": "sources\\en\\the-testament-of-simeon\\the-testament-of-simeon.json"
+    },
+    {
+        "language": "sources",
+        "book": "the-testament-of-zebulun",
+        "title": "the-testament-of-zebulun",
+        "source": "sources\\en\\the-testament-of-zebulun\\the-testament-of-zebulun.json"
+    },
+    {
+        "language": "sources",
+        "book": "tobit",
+        "title": "tobit",
+        "source": "sources\\en\\tobit\\tobit.json"
+    },
+    {
+        "language": "sources",
+        "book": "visions-of-amram",
+        "title": "visions-of-amram",
+        "source": "sources\\en\\visions-of-amram\\visions-of-amram.json"
+    },
+    {
+        "language": "sources",
+        "book": "wisdom",
+        "title": "wisdom",
+        "source": "sources\\en\\wisdom\\wisdom.json"
+    }
+]
