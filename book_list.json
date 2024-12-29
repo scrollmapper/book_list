@@ -981,6 +981,13 @@
     },
     {
         "language": "en",
+        "book": "1-adam-and-eve",
+        "title": "1-adam-and-eve",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/1-adam-and-eve/1-adam-and-eve.json",
+        "content_type": "extrabiblical"
+    },
+    {
+        "language": "en",
         "book": "1-baruch",
         "title": "Baruch",
         "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/1-baruch/1-baruch.json",
@@ -1009,9 +1016,16 @@
     },
     {
         "language": "en",
-        "book": "1-mac",
+        "book": "1-maccabees",
         "title": "1 Maccabees",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/1-mac/1-mac.json",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/1-maccabees/1-maccabees.json",
+        "content_type": "extrabiblical"
+    },
+    {
+        "language": "en",
+        "book": "2-adam-and-eve",
+        "title": "2-adam-and-eve",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/2-adam-and-eve/2-adam-and-eve.json",
         "content_type": "extrabiblical"
     },
     {
@@ -1044,9 +1058,9 @@
     },
     {
         "language": "en",
-        "book": "2-mac",
+        "book": "2-maccabees",
         "title": "2 Maccabees",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/2-mac/2-mac.json",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/2-maccabees/2-maccabees.json",
         "content_type": "extrabiblical"
     },
     {
@@ -1093,6 +1107,13 @@
     },
     {
         "language": "en",
+        "book": "apocalypse-of-sedrach",
+        "title": "The Apocalipse of Sedrach",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/apocalypse-of-sedrach/apocalypse-of-sedrach.json",
+        "content_type": "extrabiblical"
+    },
+    {
+        "language": "en",
         "book": "apocryphon-of-joshua",
         "title": "Apocryphon of Joshua",
         "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/apocryphon-of-joshua/apocryphon-of-joshua.json",
@@ -1103,6 +1124,13 @@
         "book": "ascension-of-isaiah",
         "title": "The Ascension of Isaiah",
         "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/ascension-of-isaiah/ascension-of-isaiah.json",
+        "content_type": "extrabiblical"
+    },
+    {
+        "language": "en",
+        "book": "assumption-of-moses",
+        "title": "assumption-of-moses",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/assumption-of-moses/assumption-of-moses.json",
         "content_type": "extrabiblical"
     },
     {
@@ -1121,9 +1149,9 @@
     },
     {
         "language": "en",
-        "book": "bel",
+        "book": "bel-and-the-dragon",
         "title": "Bel and the Dragon",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/bel/bel.json",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/bel-and-the-dragon/bel-and-the-dragon.json",
         "content_type": "extrabiblical"
     },
     {
@@ -1135,9 +1163,51 @@
     },
     {
         "language": "en",
-        "book": "book-of-the-wisdom-of-ahikar",
-        "title": "Ahikar",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/book-of-the-wisdom-of-ahikar/book-of-the-wisdom-of-ahikar.json",
+        "book": "book-of-jasher",
+        "title": "Jasher",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/book-of-jasher/book-of-jasher.json",
+        "content_type": "extrabiblical"
+    },
+    {
+        "language": "en",
+        "book": "book-of-jubilees",
+        "title": "Jubilees",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/book-of-jubilees/book-of-jubilees.json",
+        "content_type": "extrabiblical"
+    },
+    {
+        "language": "en",
+        "book": "book-of-judith",
+        "title": "Judith",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/book-of-judith/book-of-judith.json",
+        "content_type": "extrabiblical"
+    },
+    {
+        "language": "en",
+        "book": "book-of-nathan-the-prophet",
+        "title": "The Book of Nathan the Prophet",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/book-of-nathan-the-prophet/book-of-nathan-the-prophet.json",
+        "content_type": "extrabiblical"
+    },
+    {
+        "language": "en",
+        "book": "book-of-sirach",
+        "title": "Sirach",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/book-of-sirach/book-of-sirach.json",
+        "content_type": "extrabiblical"
+    },
+    {
+        "language": "en",
+        "book": "book-of-tobit",
+        "title": "Tobit",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/book-of-tobit/book-of-tobit.json",
+        "content_type": "extrabiblical"
+    },
+    {
+        "language": "en",
+        "book": "epistle-of-barnabas",
+        "title": "epistle-of-barnabas",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/epistle-of-barnabas/epistle-of-barnabas.json",
         "content_type": "extrabiblical"
     },
     {
@@ -1163,9 +1233,16 @@
     },
     {
         "language": "en",
-        "book": "gkesther",
+        "book": "greek-esther",
         "title": "Additions to Esther 10",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/gkesther/gkesther.json",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/greek-esther/greek-esther.json",
+        "content_type": "extrabiblical"
+    },
+    {
+        "language": "en",
+        "book": "history-of-the-rechabites",
+        "title": "history-of-the-rechabites",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/history-of-the-rechabites/history-of-the-rechabites.json",
         "content_type": "extrabiblical"
     },
     {
@@ -1177,13 +1254,6 @@
     },
     {
         "language": "en",
-        "book": "jasher",
-        "title": "Jasher",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/jasher/jasher.json",
-        "content_type": "extrabiblical"
-    },
-    {
-        "language": "en",
         "book": "joseph-and-asenath",
         "title": "JOSEPH AND ASENATH",
         "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/joseph-and-asenath/joseph-and-asenath.json",
@@ -1191,37 +1261,37 @@
     },
     {
         "language": "en",
-        "book": "jubilees",
-        "title": "Jubilees",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/jubilees/jubilees.json",
+        "book": "ladder-of-jacob",
+        "title": "ladder-of-jacob",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/ladder-of-jacob/ladder-of-jacob.json",
         "content_type": "extrabiblical"
     },
     {
         "language": "en",
-        "book": "judith",
-        "title": "Judith",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/judith/judith.json",
+        "book": "lives-of-the-prophets",
+        "title": "lives-of-the-prophets",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/lives-of-the-prophets/lives-of-the-prophets.json",
         "content_type": "extrabiblical"
     },
     {
         "language": "en",
-        "book": "man",
+        "book": "odes-of-solomon",
+        "title": "The Odes of Solomon",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/odes-of-solomon/odes-of-solomon.json",
+        "content_type": "extrabiblical"
+    },
+    {
+        "language": "en",
+        "book": "prayer-of-manasseh",
         "title": "Prayer of Manasseh",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/man/man.json",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/prayer-of-manasseh/prayer-of-manasseh.json",
         "content_type": "extrabiblical"
     },
     {
         "language": "en",
-        "book": "sedrach",
-        "title": "The Apocalipse of Sedrach",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/sedrach/sedrach.json",
-        "content_type": "extrabiblical"
-    },
-    {
-        "language": "en",
-        "book": "sirach",
-        "title": "Sirach",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/sirach/sirach.json",
+        "book": "psalms-of-solomon",
+        "title": "psalms-of-solomon",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/psalms-of-solomon/psalms-of-solomon.json",
         "content_type": "extrabiblical"
     },
     {
@@ -1247,9 +1317,51 @@
     },
     {
         "language": "en",
+        "book": "testament-of-asher",
+        "title": "The Testament of Asher / Testaments of the Twelve Patriarchs",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/testament-of-asher/testament-of-asher.json",
+        "content_type": "extrabiblical"
+    },
+    {
+        "language": "en",
+        "book": "testament-of-benjamin",
+        "title": "The Testament of Benjamin / Testaments of the Twelve Patriarchs",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/testament-of-benjamin/testament-of-benjamin.json",
+        "content_type": "extrabiblical"
+    },
+    {
+        "language": "en",
+        "book": "testament-of-dan",
+        "title": "The Testament of Dan / Testaments of the Twelve Patriarchs",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/testament-of-dan/testament-of-dan.json",
+        "content_type": "extrabiblical"
+    },
+    {
+        "language": "en",
+        "book": "testament-of-gad",
+        "title": "The Testament of Gad / Testaments of the Twelve Patriarchs",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/testament-of-gad/testament-of-gad.json",
+        "content_type": "extrabiblical"
+    },
+    {
+        "language": "en",
         "book": "testament-of-isaac",
         "title": "Testament of Isaac",
         "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/testament-of-isaac/testament-of-isaac.json",
+        "content_type": "extrabiblical"
+    },
+    {
+        "language": "en",
+        "book": "testament-of-issachar",
+        "title": "The Testament of Issachar / Testaments of the Twelve Patriarchs",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/testament-of-issachar/testament-of-issachar.json",
+        "content_type": "extrabiblical"
+    },
+    {
+        "language": "en",
+        "book": "testament-of-jacob",
+        "title": "The Testament of Jacob",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/testament-of-jacob/testament-of-jacob.json",
         "content_type": "extrabiblical"
     },
     {
@@ -1261,9 +1373,51 @@
     },
     {
         "language": "en",
+        "book": "testament-of-joseph",
+        "title": "The Testament of Joseph / Testaments of the Twelve Patriarchs",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/testament-of-joseph/testament-of-joseph.json",
+        "content_type": "extrabiblical"
+    },
+    {
+        "language": "en",
+        "book": "testament-of-judah",
+        "title": "The Testament of Judah / Testaments of the Twelve Patriarchs",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/testament-of-judah/testament-of-judah.json",
+        "content_type": "extrabiblical"
+    },
+    {
+        "language": "en",
         "book": "testament-of-kohath",
         "title": "The Testament of Kohath",
         "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/testament-of-kohath/testament-of-kohath.json",
+        "content_type": "extrabiblical"
+    },
+    {
+        "language": "en",
+        "book": "testament-of-levi",
+        "title": "The Testament of Levi / Testaments of the Twelve Patriarchs",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/testament-of-levi/testament-of-levi.json",
+        "content_type": "extrabiblical"
+    },
+    {
+        "language": "en",
+        "book": "testament-of-naphtali",
+        "title": "The Testament of Naphtali / Testaments of the Twelve Patriarchs",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/testament-of-naphtali/testament-of-naphtali.json",
+        "content_type": "extrabiblical"
+    },
+    {
+        "language": "en",
+        "book": "testament-of-reuben",
+        "title": "The Testament of Reuben / Testaments of the Twelve Patriarchs",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/testament-of-reuben/testament-of-reuben.json",
+        "content_type": "extrabiblical"
+    },
+    {
+        "language": "en",
+        "book": "testament-of-simeon",
+        "title": "The Testament of Simeon / Testaments of the Twelve Patriarchs",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/testament-of-simeon/testament-of-simeon.json",
         "content_type": "extrabiblical"
     },
     {
@@ -1275,121 +1429,9 @@
     },
     {
         "language": "en",
-        "book": "the-assumption-of-moses",
-        "title": "The Testament of Moses",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/the-assumption-of-moses/the-assumption-of-moses.json",
-        "content_type": "extrabiblical"
-    },
-    {
-        "language": "en",
-        "book": "the-book-of-nathan-the-prophet",
-        "title": "The Book of Nathan the Prophet",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/the-book-of-nathan-the-prophet/the-book-of-nathan-the-prophet.json",
-        "content_type": "extrabiblical"
-    },
-    {
-        "language": "en",
-        "book": "the-odes-of-solomon",
-        "title": "The Odes of Solomon",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/the-odes-of-solomon/the-odes-of-solomon.json",
-        "content_type": "extrabiblical"
-    },
-    {
-        "language": "en",
-        "book": "the-testament-of-asher",
-        "title": "The Testament of Asher / Testaments of the Twelve Patriarchs",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/the-testament-of-asher/the-testament-of-asher.json",
-        "content_type": "extrabiblical"
-    },
-    {
-        "language": "en",
-        "book": "the-testament-of-benjamin",
-        "title": "The Testament of Benjamin / Testaments of the Twelve Patriarchs",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/the-testament-of-benjamin/the-testament-of-benjamin.json",
-        "content_type": "extrabiblical"
-    },
-    {
-        "language": "en",
-        "book": "the-testament-of-dan",
-        "title": "The Testament of Dan / Testaments of the Twelve Patriarchs",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/the-testament-of-dan/the-testament-of-dan.json",
-        "content_type": "extrabiblical"
-    },
-    {
-        "language": "en",
-        "book": "the-testament-of-gad",
-        "title": "The Testament of Gad / Testaments of the Twelve Patriarchs",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/the-testament-of-gad/the-testament-of-gad.json",
-        "content_type": "extrabiblical"
-    },
-    {
-        "language": "en",
-        "book": "the-testament-of-issachar",
-        "title": "The Testament of Issachar / Testaments of the Twelve Patriarchs",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/the-testament-of-issachar/the-testament-of-issachar.json",
-        "content_type": "extrabiblical"
-    },
-    {
-        "language": "en",
-        "book": "the-testament-of-jacob",
-        "title": "The Testament of Jacob",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/the-testament-of-jacob/the-testament-of-jacob.json",
-        "content_type": "extrabiblical"
-    },
-    {
-        "language": "en",
-        "book": "the-testament-of-joseph",
-        "title": "The Testament of Joseph / Testaments of the Twelve Patriarchs",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/the-testament-of-joseph/the-testament-of-joseph.json",
-        "content_type": "extrabiblical"
-    },
-    {
-        "language": "en",
-        "book": "the-testament-of-judah",
-        "title": "The Testament of Judah / Testaments of the Twelve Patriarchs",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/the-testament-of-judah/the-testament-of-judah.json",
-        "content_type": "extrabiblical"
-    },
-    {
-        "language": "en",
-        "book": "the-testament-of-levi",
-        "title": "The Testament of Levi / Testaments of the Twelve Patriarchs",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/the-testament-of-levi/the-testament-of-levi.json",
-        "content_type": "extrabiblical"
-    },
-    {
-        "language": "en",
-        "book": "the-testament-of-naphtali",
-        "title": "The Testament of Naphtali / Testaments of the Twelve Patriarchs",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/the-testament-of-naphtali/the-testament-of-naphtali.json",
-        "content_type": "extrabiblical"
-    },
-    {
-        "language": "en",
-        "book": "the-testament-of-reuben",
-        "title": "The Testament of Reuben / Testaments of the Twelve Patriarchs",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/the-testament-of-reuben/the-testament-of-reuben.json",
-        "content_type": "extrabiblical"
-    },
-    {
-        "language": "en",
-        "book": "the-testament-of-simeon",
-        "title": "The Testament of Simeon / Testaments of the Twelve Patriarchs",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/the-testament-of-simeon/the-testament-of-simeon.json",
-        "content_type": "extrabiblical"
-    },
-    {
-        "language": "en",
-        "book": "the-testament-of-zebulun",
+        "book": "testament-of-zebulun",
         "title": "The Testament of Zebulun / Testaments of the Twelve Patriarchs",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/the-testament-of-zebulun/the-testament-of-zebulun.json",
-        "content_type": "extrabiblical"
-    },
-    {
-        "language": "en",
-        "book": "tobit",
-        "title": "Tobit",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/tobit/tobit.json",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/testament-of-zebulun/testament-of-zebulun.json",
         "content_type": "extrabiblical"
     },
     {
@@ -1401,9 +1443,16 @@
     },
     {
         "language": "en",
-        "book": "wisdom",
+        "book": "wisdom-of-ahikar",
+        "title": "Ahikar",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/wisdom-of-ahikar/wisdom-of-ahikar.json",
+        "content_type": "extrabiblical"
+    },
+    {
+        "language": "en",
+        "book": "wisdom-of-solomon",
         "title": "The Wisdom of Solomon",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/wisdom/wisdom.json",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/wisdom-of-solomon/wisdom-of-solomon.json",
         "content_type": "extrabiblical"
     }
 ]
