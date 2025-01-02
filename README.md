@@ -80,8 +80,8 @@ This repository aims to maintain an up-to-date list of books currently available
 - [testament-of-solomon: Testament of Solomon (en)](https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/testament-of-solomon/testament-of-solomon.json)
 - [testament-of-zebulun: The Testament of Zebulun / Testaments of the Twelve Patriarchs (en)](https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/testament-of-zebulun/testament-of-zebulun.json)
 - [visions-of-amram: Visions of Amram (en)](https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/visions-of-amram/visions-of-amram.json)
-- [wisdom-of-ahikar: Ahikar (en)](https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/wisdom-of-ahikar/wisdom-of-ahikar.json)
-- [wisdom-of-solomon: The Wisdom of Solomon (en)](https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/wisdom-of-solomon/wisdom-of-solomon.json)
+- [wisdom-of-ahikar: Wisdom of Ahikar (en)](https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/wisdom-of-ahikar/wisdom-of-ahikar.json)
+- [wisdom-of-solomon: Wisdom of Solomon (en)](https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/wisdom-of-solomon/wisdom-of-solomon.json)
 
 ## Biblical Books (140)
 - [BeaMRK: BeaMRK: The Gospel of Mark in Beaver (Danezaa) (bea)](https://raw.githubusercontent.com/scrollmapper/bible_databases/refs/heads/master/sources/bea/BeaMRK/BeaMRK.json)

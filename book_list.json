@@ -1444,14 +1444,14 @@
     {
         "language": "en",
         "book": "wisdom-of-ahikar",
-        "title": "Ahikar",
+        "title": "Wisdom of Ahikar",
         "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/wisdom-of-ahikar/wisdom-of-ahikar.json",
         "content_type": "extrabiblical"
     },
     {
         "language": "en",
         "book": "wisdom-of-solomon",
-        "title": "The Wisdom of Solomon",
+        "title": "Wisdom of Solomon",
         "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/wisdom-of-solomon/wisdom-of-solomon.json",
         "content_type": "extrabiblical"
     }
