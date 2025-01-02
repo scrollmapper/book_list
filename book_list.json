@@ -982,7 +982,7 @@
     {
         "language": "en",
         "book": "1-adam-and-eve",
-        "title": "1-adam-and-eve",
+        "title": "1 Adam and Eve",
         "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/1-adam-and-eve/1-adam-and-eve.json",
         "content_type": "extrabiblical"
     },
@@ -1024,7 +1024,7 @@
     {
         "language": "en",
         "book": "2-adam-and-eve",
-        "title": "2-adam-and-eve",
+        "title": "2 Adam and Eve",
         "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/2-adam-and-eve/2-adam-and-eve.json",
         "content_type": "extrabiblical"
     },
@@ -1129,7 +1129,7 @@
     {
         "language": "en",
         "book": "assumption-of-moses",
-        "title": "assumption-of-moses",
+        "title": "The Testament of Moses",
         "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/assumption-of-moses/assumption-of-moses.json",
         "content_type": "extrabiblical"
     },
@@ -1206,7 +1206,7 @@
     {
         "language": "en",
         "book": "epistle-of-barnabas",
-        "title": "epistle-of-barnabas",
+        "title": "The General Epistle of Barnabas",
         "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/epistle-of-barnabas/epistle-of-barnabas.json",
         "content_type": "extrabiblical"
     },
@@ -1241,7 +1241,7 @@
     {
         "language": "en",
         "book": "history-of-the-rechabites",
-        "title": "history-of-the-rechabites",
+        "title": "The History of the Rechabites - The Story of Zosimus",
         "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/history-of-the-rechabites/history-of-the-rechabites.json",
         "content_type": "extrabiblical"
     },
@@ -1262,14 +1262,14 @@
     {
         "language": "en",
         "book": "ladder-of-jacob",
-        "title": "ladder-of-jacob",
+        "title": "The Ladder of Jacob",
         "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/ladder-of-jacob/ladder-of-jacob.json",
         "content_type": "extrabiblical"
     },
     {
         "language": "en",
         "book": "lives-of-the-prophets",
-        "title": "lives-of-the-prophets",
+        "title": "The Lives of the Prophets",
         "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/lives-of-the-prophets/lives-of-the-prophets.json",
         "content_type": "extrabiblical"
     },
@@ -1290,7 +1290,7 @@
     {
         "language": "en",
         "book": "psalms-of-solomon",
-        "title": "psalms-of-solomon",
+        "title": "The Psalms of Solomon",
         "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/psalms-of-solomon/psalms-of-solomon.json",
         "content_type": "extrabiblical"
     },
