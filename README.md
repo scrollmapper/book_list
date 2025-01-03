@@ -51,7 +51,7 @@ This repository aims to maintain an up-to-date list of books currently available
 - [gad-the-seer: Gad the Seer (en)](https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/gad-the-seer/gad-the-seer.json)
 - [genesis-apocryphon: Genesis Apocryphon (en)](https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/genesis-apocryphon/genesis-apocryphon.json)
 - [greek-esther: Additions to Esther (en)](https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/greek-esther/greek-esther.json)
-- [history-of-the-rechabites: The History of the Rechabites (en)](https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/history-of-the-rechabites/history-of-the-rechabites.json)
+- [history-of-the-rechabites: History of the Rechabites (en)](https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/history-of-the-rechabites/history-of-the-rechabites.json)
 - [jannes-and-jambres: Jannes and Jambres (en)](https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/jannes-and-jambres/jannes-and-jambres.json)
 - [joseph-and-asenath: Joseph And Asenath (en)](https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/joseph-and-asenath/joseph-and-asenath.json)
 - [ladder-of-jacob: Ladder of Jacob (en)](https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/ladder-of-jacob/ladder-of-jacob.json)
