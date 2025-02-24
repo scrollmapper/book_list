@@ -1072,13 +1072,6 @@
     },
     {
         "language": "en",
-        "book": "3-enoch",
-        "title": "III Enoch",
-        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/3-enoch/3-enoch.json",
-        "content_type": "extrabiblical"
-    },
-    {
-        "language": "en",
         "book": "3-hermas",
         "title": "III Hermas",
         "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/3-hermas/3-hermas.json",
@@ -1229,6 +1222,13 @@
         "book": "genesis-apocryphon",
         "title": "Genesis Apocryphon",
         "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/genesis-apocryphon/genesis-apocryphon.json",
+        "content_type": "extrabiblical"
+    },
+    {
+        "language": "en",
+        "book": "gospel-of-nicodemus",
+        "title": "Gospel of Nicodemus",
+        "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases_deuterocanonical/refs/heads/master/sources/en/gospel-of-nicodemus/gospel-of-nicodemus.json",
         "content_type": "extrabiblical"
     },
     {
